@@ -1,1 +1,1 @@
-Cv templated created with Python and Django.
+Cv template created with Python and Django.
