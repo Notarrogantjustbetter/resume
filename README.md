@@ -1,1 +1,11 @@
-Cv template created with Python and Django.
+# CV template
+
+# Back-end
+
+* Python
+
+* Django
+
+# Front-end
+
+* HTML
