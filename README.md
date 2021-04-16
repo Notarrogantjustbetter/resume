@@ -8,4 +8,9 @@
 
 # Front-end
 
-* HTML
+* HTML 
+
+# Info
+
+* This is a simpel CV template.
+
